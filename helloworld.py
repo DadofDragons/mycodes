@@ -9,6 +9,4 @@ g = 4
 lala = 7
 yoyo  = 9
 da = 10
-aa = 11
-bb= 12
 print("helloworld")
